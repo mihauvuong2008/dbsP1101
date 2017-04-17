@@ -39,8 +39,13 @@ Tối 21/12 vẫn đang thực hiện Thống kê phương tiện giao thông, h
 		24/2/2017: hoàn thành phiên bản 32 bit, hoàn thành mã hóa mật khẩu cơ sở dữ liệu, che giấu người dùng
 		25/2/2017: xây dựng kế hoạch kiểm thử.
 		22/03/2017: chuyển qua kiểm thử các chức năng, hoàn thành kiểm thử + sửa đổi thống kê lịch trình
-		
-		
+		05/04/2017: Xong nhóm tài sản, thực hiện các chức năng quản lý tài sản cơ bản: xuất excel 
+		06/04/2017: Sửa lại Nhóm tài sản: chuyển hết về NhÓM cấp V, hoàn thành fix
+		7/04/2017: hoan thanh cong viec dang trien khai main form
+		11/4/2017: đánh giá tình trạng PTTS
+		14/4/2017: Thống kê cơ bản danh sách PTTS.
+		15/4/2017: Sửa thông tin PTTS, hiển thị, ẩn mainTab. Xây dựng bàn giao nội bộ, xuất dữ liệu tài sản
+		17/4/2017: Lịch công tác tuần
 		
 		
 		

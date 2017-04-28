@@ -46,6 +46,9 @@ Tối 21/12 vẫn đang thực hiện Thống kê phương tiện giao thông, h
 		14/4/2017: Thống kê cơ bản danh sách PTTS.
 		15/4/2017: Sửa thông tin PTTS, hiển thị, ẩn mainTab. Xây dựng bàn giao nội bộ, xuất dữ liệu tài sản
 		17/4/2017: Lịch công tác tuần
-		
-		
+		18/4/2016: Tạo nhanh công việc, chuyển đề xuất về nhập sau
+		20/4/2017: Sửa nhận việc, tạo màu danh sách đề nghị bảo dưỡng, chuyển hết tạo công việc về nhập đề xuất sau.
+		21/4/2017: Liên hệ trong tạo công việc.
+		22/4/2017: công việc của tôi, nhập dữ liệu form => thêm lọc thông tin Hồ sơ công việc
+		lưu xóa chu kỳ bảo dưỡng, tạo bộ sưu tập hồ sơ
 		

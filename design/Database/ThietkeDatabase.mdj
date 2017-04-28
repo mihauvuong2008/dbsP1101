@@ -13307,9 +13307,9 @@
 									"_parent": {
 										"$ref": "AAAAAAFX5pW7jpRri6Q="
 									},
-									"name": "Tên quán trình",
-									"type": "VARCHAR",
-									"length": "30",
+									"name": "loaicongviec",
+									"type": "int",
+									"length": 0,
 									"primaryKey": false,
 									"foreignKey": false,
 									"nullable": false,
@@ -13372,9 +13372,9 @@
 									"_parent": {
 										"$ref": "AAAAAAFX5pYlm5R7yqc="
 									},
-									"name": "Tên quá trình",
-									"type": "VARCHAR",
-									"length": "30",
+									"name": "Loaicongviec",
+									"type": "int",
+									"length": 0,
 									"primaryKey": false,
 									"foreignKey": false,
 									"nullable": false,
